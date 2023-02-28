@@ -1,3 +1,7 @@
+:boom: This is a PoC for using a static site in lieu of our GoDaddy hosted site 12/2022 - Sam J.  
+
+:skull: This can be deleted if desired
+
 # Astro Starter Kit: Basics
 
 ```
